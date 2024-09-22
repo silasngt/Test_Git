@@ -11,6 +11,7 @@ namespace TestGit1
         static void Main(string[] args)
         {
             Console.WriteLine("Test Git Lần 1");
+            Console.WriteLine("Test git Khao");
         }
     }
 }
